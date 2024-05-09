@@ -66,7 +66,7 @@ export const content = {
     hero_content: [
       {
         count: "4+",
-        text: "года опыта работа разработчиком",
+        text: "года опыта работы разработчиком",
       },
       {
         count: "Java, Spring, Hibernate, React, PostgreSQL",
