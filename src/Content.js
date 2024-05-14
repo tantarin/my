@@ -28,7 +28,7 @@ import Hireme_person2 from "./assets/images/Hireme/person2.png";
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
-import { BsInstagram } from "react-icons/bs";
+import {BsInstagram, BsTelegram} from "react-icons/bs";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
@@ -219,23 +219,23 @@ export const content = {
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
-    subtitle: "GET IN TOUCH",
+    title: "Напиши мне",
+    subtitle: "Как со мной связаться",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "tanyatarinsk@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:tanyatarinsk@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+7 900 650 79 63",
         icon: MdCall,
         link: "https://wa.me/1234567890",
       },
       {
-        text: "codeaprogram",
-        icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        text: "@tania01011",
+        icon: BsTelegram,
+        link: "https://t.me/tania01011",
       },
     ],
   },
