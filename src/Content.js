@@ -137,6 +137,51 @@ export const content = {
         para: "Lorem ipsum text  dummy",
         link: 'https://disk.yandex.ru/d/9xL9Nup9RTUhhg',
       },
+      {
+        name: "ИТ в физике",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/CMYWeIClmHZl5Q',
+      },
+      {
+        name: "ИТ в математике",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/kgVAr3BGqIfzeA',
+      },
+      {
+        name: "ИТ-менеджмент",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/YusXqx5HUFWZcQ',
+      },
+      {
+        name: "Иностранный язык",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/_shxa06GkhHVew',
+      },
+      {
+        name: "Информатика",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/xTS8EZPx-0wCxA',
+      },
+      {
+        name: "МИРЦБ",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/l9q-FSEKRk0Ifw',
+      },
+      {
+        name: "НИП",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/eryHxMPysaDvrA',
+      },
+      {
+        name: "ОКА",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/bhBSIjcDtP3QRA',
+      },
+      {
+        name: "Вычислительная математика",
+        para: "Lorem ipsum text  dummy",
+        link: 'https://disk.yandex.ru/d/Zar8LIAslFi-EQ',
+      },
     ],
     icon: MdArrowForward,
   },
@@ -212,7 +257,7 @@ export const content = {
   },
   Hireme: {
     title: "Hire Me",
-    subtitle: "FOR YOUR PROJECTS",
+    subtitle: "ЧЕМ Я ГОРЖУСЬ",
     image1: Hireme_person,
     image2: Hireme_person2,
     para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
