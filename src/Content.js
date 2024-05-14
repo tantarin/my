@@ -59,8 +59,8 @@ export const content = {
   ],
   hero: {
     title: "Фулл-стек разработчик",
-    firstName: "Татьяна",
-    LastName: "Таринская",
+    firstName: "Таринская",
+    LastName: "Татьяна",
     btnText: "Студентка РГПУ им.Герцена",
     image: Hero_person,
     hero_content: [
