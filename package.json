@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
+    "@fontsource/twinkle-star": "^5.0.20",
     "@material-tailwind/react": "^2.1.9",
     "aos": "^2.3.4",
     "date-fns": "^3.6.0",

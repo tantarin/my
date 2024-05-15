@@ -1,5 +1,7 @@
 // import content
 import { useEffect } from "react";
+
+import '@fontsource/twinkle-star';
 import { content } from "../Content";
 const Hero = () => {
   const { hero } = content;
@@ -23,7 +25,9 @@ const Hero = () => {
           <h2>{hero.title}</h2>
           <br />
           <div className="flex justify-end">
-            <button className="btn">{hero.btnText}</button>
+            <button className="btn twinkle-star" style={{ whiteSpace: 'pre-wrap' }}>
+              студентки 4 курса РГПУ им. Герцена<br/>по направлению подготовки 09.03.01 Информатика и вычислительная техника
+            </button>
           </div>
           <div className="flex flex-col gap-10 mt-10">
             {hero.hero_content.map((content, i) => (
