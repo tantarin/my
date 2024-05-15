@@ -260,7 +260,7 @@ export const content = {
     subtitle: "МОИ УВЛЕЧЕНИЯ",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "Я играю 2 раза в неделю в сквош и люблю бегать. Я участвовала в РГПУ им. Герцена в соревнованиях по гребле и в студенческом забеге.",
     btnText: "Hire Me",
   },
   Contact: {
