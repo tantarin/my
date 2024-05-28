@@ -29,14 +29,19 @@ const Services = () => {
 
     <section id="services">
       <div className="md:container px-5 py-14">
-        <h4 className="subtitle" data-aos="fade-down">
+        <h4 className="subtitle"
+            data-aos="fade-down">
           {services.subtitle}
         </h4>
         <br />
         <div>
-            <Carousel autoSlide={false} >
+            <Carousel autoSlide={false}>
                 {slides.map((slide, index) => (
-                    <img className={'max-w-md shadow-2xl .hover:scale-110 rounded-lg'} key={index} src={slide} alt={`Slide ` + slide} />
+                    <img
+                        className={'max-w-md shadow-2xl .hover:scale-110 rounded-lg'}
+                        key={index}
+                        src={slide}
+                        alt={`Slide ` + slide} />
                 ))}
             </Carousel>
         </div>
