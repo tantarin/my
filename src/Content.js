@@ -98,14 +98,39 @@ export const content = {
         link: 'https://github.com/tantarin/proga_labs',
       },
       {
-        name: "Языки написания спецификаций",
-        para: "8 семестр",
+        name: "ЯНС",
+        para: "Языки написания спецификаций, 8 семестр",
         link: 'https://disk.yandex.ru/d/4h7fyRacimnODw',
       },
       {
         name: "Соц. вопросы информатики",
         para: "8 семестр",
         link: 'https://disk.yandex.ru/d/tCHhvnvV1szfaw',
+      },
+      {
+        name: "МИРЦБ",
+        para: "8 семестр",
+        link: 'https://disk.yandex.ru/d/l9q-FSEKRk0Ifw',
+      },
+      {
+        name: "НИП",
+        para: "8 семестр",
+        link: 'https://disk.yandex.ru/d/eryHxMPysaDvrA',
+      },
+      {
+        name: "ИТ оценки персонала",
+        para: "8 семестр",
+        link: 'https://disk.yandex.ru/d/_ZRQ-OvMkTmqZA',
+      },
+      {
+        name: "ЭИОС",
+        para: "7 семестр",
+        link: 'https://disk.yandex.ru/d/VB7JDaUiXTLb8Q',
+      },
+      {
+        name: "ИСП",
+        para: "Инструментальные средства программирования, 7 семестр",
+        link: 'https://disk.yandex.ru/d/ogDgbHKduFKCzA',
       },
       {
         name: "Базы данных",
@@ -121,11 +146,6 @@ export const content = {
         name: "Защита информации",
         para: "6 семестр",
         link: 'https://disk.yandex.ru/d/fB7ifohftQAM3g',
-      },
-      {
-        name: "ИСП",
-        para: "Инструментальные средства программирования, 7 семестр",
-        link: 'https://disk.yandex.ru/d/ogDgbHKduFKCzA',
       },
       {
         name: "Компьютерный практикум",
@@ -181,16 +201,6 @@ export const content = {
         name: "Информатика",
         para: "1 семестр",
         link: 'https://disk.yandex.ru/d/xTS8EZPx-0wCxA',
-      },
-      {
-        name: "МИРЦБ",
-        para: "8 семестр",
-        link: 'https://disk.yandex.ru/d/l9q-FSEKRk0Ifw',
-      },
-      {
-        name: "НИП",
-        para: "8 семестр",
-        link: 'https://disk.yandex.ru/d/eryHxMPysaDvrA',
       },
       {
         name: "ОКА",
