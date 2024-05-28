@@ -98,6 +98,16 @@ export const content = {
         link: 'https://github.com/tantarin/proga_labs',
       },
       {
+        name: "Языки написания спецификаций",
+        para: "8 семестр",
+        link: 'https://disk.yandex.ru/d/4h7fyRacimnODw',
+      },
+      {
+        name: "Соц. вопросы информатики",
+        para: "8 семестр",
+        link: 'https://disk.yandex.ru/d/tCHhvnvV1szfaw',
+      },
+      {
         name: "Базы данных",
         para: "4 семестр",
         link: 'https://disk.yandex.ru/d/ZwQvrxebywM5hA',
@@ -136,11 +146,6 @@ export const content = {
         name: "Сети и телекоммуникации",
         para: "5 семестр",
         link: 'https://disk.yandex.ru/d/Y2yLUhcmewB7WQ',
-      },
-      {
-        name: "Языки написания спецификаций",
-        para: "8 семестр",
-        link: 'https://disk.yandex.ru/d/4h7fyRacimnODw',
       },
       {
         name: "ИТ-рекрутмент",
