@@ -75,25 +75,26 @@ const Skills = () => {
         <br />
         <div className="flex flex-wrap gap-4 justify-center">
           {skills.skills_content.map((skill, i) => (
-            <div
-              key={i}
-              data-aos="fade-up"
-              data-aos-delay={i * 400}
-              className="bg-white sm:cursor-pointer 
-               relative group w-full flex items-center
-                gap-5 p-5 max-w-sm rounded-md border-2 border-slate-200"
-            >
-              <a href={skill.link}>
-                <h6 className="text-2xl font-serif">{skill.name}</h6>
-                <p className="font-serif">{skill.para}</p>
-                <div onClick={() => {{skill.link}}}
-                  className="text-xl absolute top-3 right-3">
-                  {createElement(skills.icon)}
-                </div>
-              </a>
-            </div>
+              <div
+                  key={i}
+                  data-aos="fade-up"
+                  data-aos-delay={i * 400}
+                  className={`bg-white sm:cursor-pointer relative group w-full flex items-center gap-5 p-5 max-w-sm rounded-md border-2 border-slate-200`}
+              >
+                <a href={skill.link}>
+                  <h6 className={`${skill.name === 'Программирование' ? 'text-indigo-300' : ''} text-2xl font-serif`}>
+                    {skill.name}
+                  </h6>
+                  <p className="font-serif">{skill.para}</p>
+                  <div onClick={() => {{skill.link}}}
+                       className="text-xl absolute top-3 right-3">
+                    {createElement(skills.icon)}
+                  </div>
+                </a>
+              </div>
           ))}
         </div>
+
       </div>
     </section>
   );
