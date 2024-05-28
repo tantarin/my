@@ -80,7 +80,7 @@ export const content = {
       {
         name: "Программирование",
         para: "4-5-6-7 семестры",
-        link: 'https://disk.yandex.ru/d/6r3F4Orp2pvErA',
+        link: 'https://github.com/tantarin/proga_labs',
       },
       {
         name: "Базы данных",
