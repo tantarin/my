@@ -3,12 +3,22 @@ import { TECarousel, TECarouselItem } from "tw-elements-react";
 import first from '../images/1.jpg';
 import second from '../images/2.jpg';
 import third from '../images/3.jpg';
+import fourth from '../images/4.jpg';
+import fifth from '../images/5.jpg';
+import sixth from '../images/6.jpg';
+import seventh from '../images/7.jpg';
+import eighth from '../images/8.jpg';
 import Carousel from "./Carousel.jsx";
 
 const slides = [
     first,
     third,
-    second
+    second,
+    fourth,
+    fifth,
+    sixth,
+    seventh,
+    eighth
 ]
 
 const Services = () => {
