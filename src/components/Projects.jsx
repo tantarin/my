@@ -54,7 +54,7 @@ const Projects = () => {
                 <div className="relative p-4 my-6 text-gray-800 bg-white rounded-xl col-start-6 col-end-10 mr-auto">
                   <h3 className="text-lg font-semibold lg:text-xl">Huawei Russian Research Institute</h3>
                   <p className="mt-2 leading-6">java-разработчик</p>
-                  <span className="absolute text-sm text-indigo-800 -top-5 left-2 whitespace-nowrap">март 2020-ноябрь 2023</span>
+                  <span className="absolute text-sm text-indigo-800 -top-5 left-2 whitespace-nowrap">март 2020-ноябрь 2022</span>
                 </div>
               </div>
 
