@@ -78,6 +78,11 @@ export const content = {
     subtitle: "ИЗУЧЕННЫЕ ДИСЦИПЛИНЫ",
     skills_content: [
       {
+        name: "Курсовые",
+        para: "",
+        link: 'https://disk.yandex.ru/d/K1tOh-V4Q2sKsw',
+      },
+      {
         name: "Программирование",
         para: "4-5-6-7 семестры",
         link: 'https://github.com/tantarin/proga_labs',
