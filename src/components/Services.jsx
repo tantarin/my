@@ -8,9 +8,11 @@ import fifth from '../images/5.jpg';
 import sixth from '../images/6.jpg';
 import seventh from '../images/7.jpg';
 import eighth from '../images/8.jpg';
+import ninth from '../images/9.jpg';
 import Carousel from "./Carousel.jsx";
 
 const slides = [
+    ninth,
     first,
     third,
     second,
