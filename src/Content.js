@@ -83,6 +83,16 @@ export const content = {
         link: 'https://disk.yandex.ru/d/K1tOh-V4Q2sKsw',
       },
       {
+        name: "Преддипломная практика",
+        para: "",
+        link: 'https://github.com/tantarin/practice_8_sem',
+      },
+      {
+        name: "Производственная практика",
+        para: "",
+        link: 'https://github.com/tantarin/practice_4_course/tree/main',
+      },
+      {
         name: "Программирование",
         para: "4-5-6-7 семестры",
         link: 'https://github.com/tantarin/proga_labs',
