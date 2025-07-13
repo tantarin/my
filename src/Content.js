@@ -75,7 +75,30 @@ export const content = {
     ],
   },
   skills: {
-   
+    title: "Skills",
+    subtitle: "МОИ НАВЫКИ",
+    skills_content: [
+      {
+        name: "Java",
+        para: "Spring Boot, Spring Security, Hibernate",
+        link: "#",
+      },
+      {
+        name: "Frontend",
+        para: "React.js, JavaScript, HTML/CSS",
+        link: "#",
+      },
+      {
+        name: "Database",
+        para: "PostgreSQL, MySQL",
+        link: "#",
+      },
+      {
+        name: "Tools",
+        para: "Git, Docker, Maven",
+        link: "#",
+      },
+    ],
   },
   services: {
     title: "Services",
