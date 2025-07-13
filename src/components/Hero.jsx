@@ -26,7 +26,7 @@ const Hero = () => {
           <br />
           <div className="flex justify-end">
             <button className="btn twinkle-star" style={{ whiteSpace: 'pre-wrap' }}>
-              студентки 4 курса РГПУ им. Герцена<br/>по направлению подготовки 09.03.01 Информатика и вычислительная техника
+              {hero.btnText}
             </button>
           </div>
           <div className="flex flex-col gap-10 mt-10">
